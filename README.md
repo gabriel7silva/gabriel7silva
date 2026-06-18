@@ -4,7 +4,7 @@
   Este arquivo precisa estar na raiz de um repositorio PUBLICO
   chamado exatamente "gabriel7silva" para aparecer no seu perfil.
   ------------------------------------------------------------
-  Unico projeto com repo publico: gabriel7silva/baratroIDE
+  Unico projeto com repo publico: gabriel7silva/constella
   YardPortal (YMS) e produto proprietario (sem repo publico).
   ============================================================
 -->
@@ -57,7 +57,7 @@ Today I focus on software development and AI agent orchestration, with an obsess
 
 <br/>
 
-- 🌀 Construindo o **Báratro-IA**, uma plataforma open-source de orquestração multi-agente
+- 🌌 Construindo a **Constella**, uma plataforma open-source local-first de orquestração multi-agente
 - 🔐 Mentalidade *security-first* em tudo que faço (isolamento de rede, mínima exposição, higiene de credenciais)
 - 🎓 **PSPO I** pela Scrum.org · cursando **Gestão da TI**
 - 🧠 Sempre estudando: sistemas distribuídos, agentes de IA e arquitetura de software
@@ -67,14 +67,14 @@ Today I focus on software development and AI agent orchestration, with an obsess
 
 ## 🌀 No que estou trabalhando agora | Currently Building
 
-> ### Báratro-IA
-> 🇧🇷 Plataforma **open-source** de orquestração de agentes de IA em formato de IDE. Uma "empresa" de nove agentes autônomos, cada um nomeado em homenagem a um pioneiro da computação (Ada, Linus, Margaret, Grace, Edsger, Werner, Whitfield, Donald e Barbara), que **planejam, codificam, revisam e entregam software de ponta a ponta** sob supervisão humana. Multi-provider, multi-modelo, com memória persistente, governança e orçamento por execução.
+> ### ✦ Constella
+> 🇧🇷 **Plataforma open-source** de orquestração de agentes de IA — um painel de controle cósmico, **local-first**, onde uma "empresa" de agentes autônomos, cada um nomeado em homenagem a um pioneiro da computação (Ada, Linus, Margaret, Grace, Edsger, Werner, Whitfield, Donald e Barbara), **planeja, codifica, revisa e entrega software de ponta a ponta** sob supervisão humana. Multi-provider, multi-modelo, com memória persistente (RAG), governança e orçamento por execução.
 >
-> 🌎 An **open-source** AI agent orchestration platform in an IDE format. A "company" of nine autonomous agents, each named after a computing pioneer, that **plan, code, review, and ship software end-to-end** under human supervision. Multi-provider, multi-model, with persistent memory, governance, and per-run budgeting.
+> 🌎 An **open-source** AI agent-orchestration platform — a **local-first** cosmic control plane where a "company" of autonomous agents, each named after a computing pioneer, **plans, codes, reviews, and ships software end-to-end** under human supervision. Multi-provider, multi-model, with persistent memory (RAG), governance, and per-run budgeting.
 >
-> `TypeScript` · `Node.js` · `React` · `Vite` · `SQLite / PostgreSQL` · `Docker`
+> `TypeScript` · `Node.js` · `Next.js` · `React` · `SQLite` · `Drizzle ORM` · `Docker`
 >
-> 🔗 [Ver repositório | View repo](https://github.com/gabriel7silva/baratroIDE)
+> 🔗 [Ver repositório | View repo](https://github.com/gabriel7silva/constella)
 
 ---
 
@@ -99,12 +99,12 @@ Today I focus on software development and AI agent orchestration, with an obsess
 
 ## 📂 Projetos em Destaque | Featured Projects
 
-### 🌀 Báratro-IA · open-source
-🇧🇷 Plataforma open-source de orquestração multi-agente em formato de IDE, onde agentes autônomos formam uma empresa de software que entrega projetos de ponta a ponta. Arquitetura monorepo com múltiplos workspaces (API Gateway, serviço de agentes, painel admin e SDK cliente), PostgreSQL com Drizzle ORM, conteinerização Docker multi-stage e CI/CD via GitHub Actions.  
-🌎 Open-source multi-agent orchestration platform in an IDE format, where autonomous agents form a software company that delivers projects end-to-end. Monorepo architecture with multiple workspaces (API Gateway, agent service, admin panel, and client SDK), PostgreSQL with Drizzle ORM, multi-stage Docker, and CI/CD via GitHub Actions.
+### ✦ Constella · open-source
+🇧🇷 Plataforma open-source de orquestração multi-agente: um painel de controle **local-first** onde agentes autônomos formam uma empresa de software que **planeja (Goals → Specs → Issues → Plans), codifica, revisa e entrega** de ponta a ponta. App Next.js com SQLite + Drizzle ORM, agentes rodando como **subprocessos reais de CLI** (claude/codex), modelos locais (llama.cpp) + **RAG semântico**, e integrações GitHub/Telegram.  
+🌎 Open-source multi-agent orchestration platform: a **local-first** control plane where autonomous agents form a software company that **plans (Goals → Specs → Issues → Plans), codes, reviews, and ships** end-to-end. A Next.js app with SQLite + Drizzle ORM, agents running as **real CLI subprocesses** (claude/codex), local models (llama.cpp) + **semantic RAG**, and GitHub/Telegram integrations.
 
-`TypeScript` · `Node` · `React` · `PostgreSQL` · `Drizzle ORM` · `Docker` · `GitHub Actions`  
-🔗 [Repositório | Repo](https://github.com/gabriel7silva/baratroIDE)
+`TypeScript` · `Next.js` · `React` · `SQLite` · `Drizzle ORM` · `llama.cpp` · `Docker`  
+🔗 [Repositório | Repo](https://github.com/gabriel7silva/constella)
 
 <br/>
 
