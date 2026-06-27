@@ -17,9 +17,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+de+Software+%26+Founder;Product+Owner+%7C+PSPO+I;AI+Agent+Orchestration;Security-First+Mindset" alt="Typing SVG" />
 
-Construindo software autônomo de Mato Grosso, Brasil 🇧🇷  
-*Building autonomous software from Mato Grosso, Brazil*
-
 <br/>
 
 <!-- ===== BADGES SOCIAIS (troque os links) ===== -->
