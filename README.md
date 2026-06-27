@@ -142,14 +142,6 @@ Today I focus on software development and AI agent orchestration, with an obsess
 
 <br/>
 
-## 📫 Contato | Get in Touch
-
-<a href="https://www.linkedin.com/in/gabriel-s-b67b41235/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:gluiz.2023@icloud.com">
-  <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
-</a>
 
 <br/><br/>
 
